@@ -2,7 +2,7 @@
 
 This repository contains chapters on cross stitching, primarily written by Dr. Sarah Gibson.
 
-[_The Turing Way_](https://github.com/alan-turing-institute/the-turing-way) team members wanted to test The Carpentries lesson Template so that they could use it for hosting lessons relevant for The Turing Way project.
+[_The Turing Way_](https://github.com/alan-turing-institute/the-turing-way) team members wanted to test The Carpentries [lesson template](https://github.com/carpentries/lesson-example) so that they could use it for hosting lessons relevant for _The Turing Way_ project.
 
 A lesson on cross stitch like a good example to start with for the following reasons:
 
