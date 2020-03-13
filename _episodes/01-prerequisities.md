@@ -36,6 +36,11 @@ The fabric most commonly used for cross stitch embroidery is called ["aida"](htt
 Aida is useful for cross stitching as it is woven in such a way that it has evenly-spaced holes that form the corners of our stitches.
 It is a type of "even weave" fabric, which means that the number of threads in the vertical direction matches the number of threads in the horizontal direction.
 
+How far apart the holes in the aida are is described by the fabric's "count".
+Most commonly, cross stitching is done on 14 count aida.
+This means that 14 stitches will fit in 1 inch of fabric.
+The higher the count, the more stitches per inch you will get.
+
 ### Coloured thread
 
 We also need some coloured thread to make our stitches with!
