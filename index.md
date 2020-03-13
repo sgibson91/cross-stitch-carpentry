@@ -6,7 +6,7 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 
 The aim of this lesson is to learn the embroidery technique known as Cross Stitch!
 
-> ## Prerequisites
+> ## Motivation
 >
-> To get started, please see the [Prerequisites](_episodes/01-prerequisities.md)
+> To get started, please see the [motivation](_extras/motivation.md)
 {: .prereq}
