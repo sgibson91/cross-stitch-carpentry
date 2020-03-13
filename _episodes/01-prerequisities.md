@@ -17,7 +17,7 @@ keypoints:
 - [Coloured thread](#coloured-thread)
 - [Needle](#needle)
 - [Scissors](#scissors)
-- [Emboridery hoop](#emboridery-hoop)
+- [Embroidery hoop](#embroidery-hoop)
 - [A needle threader](#needle-threader) (optional)
 - [A needle minder](#needle-minder) (optional)
 
