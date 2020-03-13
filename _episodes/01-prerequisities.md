@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Become familiar with the cross stitching equipment"
 keypoints:
-- ""
+- "Become familiar with the cross stitching equipment"
 ---
 
 ## What do we need to start Cross Stitching?
