@@ -14,9 +14,13 @@ keypoints:
 - ""
 ---
 
-Now it’s time to cross stitch!
+- [How to Cross Stitch](#how-to-cross-stitch)
+- [Stitching Best Practices](#stitching-best-practices)
+- [Further Reading](#further-reading)
 
 ## How to Cross Stitch
+
+Now it’s time to cross stitch!
 
 To make the first stitch, push your needle from the underside of the fabric through what will be the top left corner of your stitch.
 Be careful not to pull all the thread through!
