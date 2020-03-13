@@ -21,7 +21,6 @@ keypoints:
 It is always a good idea to start by looking for the the middle/center of your fabric.
 This will allow you make sure your design is placed as intended in the fabric.
 
-We’re using 14 count aida fabric. This means that 14 stitches will fit in 1 inch of fabric. This type of fabric has well defined holes woven into it making it ideal for cross stitch!
 One way to do this is to fold the fabric in half and then half again.
 You can then keep track of the centre by pushing the needle through the fold..
 Here is video for reference: https://youtu.be/nVawkpj1T3g
