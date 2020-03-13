@@ -1,4 +1,4 @@
-# Let's start cross stich
+# How to Cross Stitch
 
 This repository contains chapters on cross stitching, primarily written by Dr. Sarah Gibson.
 
