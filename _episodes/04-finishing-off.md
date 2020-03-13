@@ -3,7 +3,7 @@ title: "Finishing off"
 teaching: 15 
 exercises: 1
 questions:
-- "Learning how to finish off thread?"
+- "How to secure the of end of the thread?"
 objectives:
 - ""
 keypoints:
