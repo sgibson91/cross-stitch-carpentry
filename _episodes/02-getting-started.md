@@ -1,11 +1,14 @@
 ---
 title: "Getting Started"
-teaching: 
+teaching: 20
 exercises: 0
 questions:
-- ""
+- "How to find the middle of the fabric?"
+- "How to use emroidery hoop?"
+- "How to prepare embroidery thread for use?"
 objectives:
-- ""
+- "Gain familiarity with embroidery materials"
+- "Getting prepared to stitch"
 keypoints:
 - ""
 ---
@@ -33,3 +36,5 @@ To use the design and materials provided for this lesson, follow these steps:
     - The ideal length of thread to stitch with measures from fingertip to elbow.
     - Pull 1 strand out of the 6 and fold this over so the two ends meet. Thread the two ends through the eye of the needle.
     - Most cross stitch patterns on 14 count aida require stitches made with 2 threads for suitable coverage of the fabric. By folding the thread in half like this, we can do something called a loop start.
+    
+Congratulations, you're now ready to actually start stitching.
