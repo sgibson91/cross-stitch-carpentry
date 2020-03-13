@@ -58,7 +58,7 @@ You could purchase a set of [embroidery scissors](https://www.sewessential.co.uk
 
 ### Embroidery hoop
 
-Embroidery hoops, also known as frames, are pair of concentric circular rings (often available in wooden or plastic materials) that are used for keeping fabric tightly secured and cleanly placed when stitching and performing needlework.
+Embroidery hoops, also known as frames, are a pair of concentric circular rings (often available in wooden or plastic materials) that are used for keeping fabric tightly secured and cleanly placed when stitching and performing needlework.
 
 ### Needle threader
 
