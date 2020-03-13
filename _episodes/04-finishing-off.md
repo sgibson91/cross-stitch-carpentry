@@ -10,7 +10,7 @@ keypoints:
 - ""
 ---
 
-In this chapter you will learn what to do when you run out of your thread while stitching, finish working with one colour and need to move on to the next one, or finished your design. 
+In this chapter you will learn what to do when you run out of thread while stitching, finish working with one colour and need to move on to the next one, or finished your design. 
 
 You will have to start by tying a secure knot on the backside of your pattern on the back of the fabric.
 
