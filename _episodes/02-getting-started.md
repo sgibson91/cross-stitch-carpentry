@@ -7,7 +7,6 @@ questions:
 - "How to use emroidery hoop?"
 - "How to prepare embroidery thread for use?"
 objectives:
-- "Gain familiarity with embroidery materials"
 - "Getting prepared to stitch"
 keypoints:
 - ""
