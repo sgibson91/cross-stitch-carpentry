@@ -1,6 +1,6 @@
 ---
 title: "Prerequisites"
-teaching: 0
+teaching: 15
 exercises: 0
 questions:
 - "What equipment do we need to begin cross stitching?"
@@ -17,12 +17,14 @@ keypoints:
 - [Coloured thread](#coloured-thread)
 - [Needle](#needle)
 - [Scissors](#scissors)
+- [Emboridery hoop](#emboridery-hoop)
 - [A needle threader](#needle-threader) (optional)
 - [A needle minder](#needle-minder) (optional)
 
 ### Pattern chart
 
 The pattern chart is a gridded piece of paper that lays out the design we'd like to stitch.
+
 Each square on the grid represents one full cross stitch and the grid often has a 10x10 square grid in **bold** to assist with counting.
 The pattern chart will contain symbols within the grid and a key that links each symbol to the number of coloured thread we should use to create that stitch with.
 The colours and layout of the stitches will help build up our pattern.
@@ -53,6 +55,10 @@ These can also be purchased from DMC.
 
 It will be handy to have a pair of scissors around to cut loose ends of thread with.
 You could purchase a set of [embroidery scissors](https://www.sewessential.co.uk/sewing-tools-and-gadgets/sewing-tools/scissors/embroidery-scissors) or a small pair of craft scissors will suffice.
+
+### Emboridery hoop
+
+Embroidery hoops, also known as frames, are pair of concentric circular rings (often available in wooden or plastic materials) that are used for keeping fabric tightly secured and cleanly placed when stitching and performing needlework.
 
 ### Needle threader
 
