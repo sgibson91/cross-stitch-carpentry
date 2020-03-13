@@ -26,7 +26,11 @@ To use the design and materials provided for this lesson, follow these steps:
 ## Embroidery hoop
 
 - We have provided an embroidery hoop. This will help keep your fabric taut and your tension even while you stitch.
-    - To fit your embroidery hoop: unscrew it and separate the rings, then sandwich the fabric between the inside and outside rings. On a flat surface, push the rings back together trying to keep the centre of the fabric in the centre of the hoop. Gently pull at the loose fabric around the edge while tightening the screw. The fabric should be drum-tight. If the screw is stiff, a flat-head screwdriver will help.
+    - To fit your embroidery hoop: unscrew the fastening and separate the rings, then sandwich the fabric between the inner and outer rings.
+      On a flat surface, push the rings back together, trying to keep the centre of the fabric in the centre of the hoop.
+      Gently pull at the loose fabric around the edge while tightening the screw.
+      The fabric should be drum-tight.
+      If the screw is stiff, a flat-head screwdriver will help.
    - Here is video for reference: https://youtu.be/4Q4ieJCFBMo 
     
 ## Thread
