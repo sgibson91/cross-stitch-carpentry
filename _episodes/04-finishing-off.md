@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Secure the end of your thread so the stitches don't come undone."
 keypoints:
-- ""
+- "Securing finishing off thread"
 ---
 
 - [Finishing off your thread](#finishing-off-your-thread)

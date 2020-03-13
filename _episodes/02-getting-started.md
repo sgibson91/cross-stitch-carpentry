@@ -9,7 +9,7 @@ questions:
 objectives:
 - "Getting prepared to stitch"
 keypoints:
-- ""
+- "Getting prepared to stitch"
 ---
 
 - [Fabric and needle](#fabric-and-needle)
