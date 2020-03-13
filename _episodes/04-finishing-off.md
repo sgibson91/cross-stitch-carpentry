@@ -5,7 +5,7 @@ exercises: 1
 questions:
 - "How to secure the of end of the thread?"
 objectives:
-- ""
+- "Secure the end of your thread so the stitches don't come undone."
 keypoints:
 - ""
 ---
