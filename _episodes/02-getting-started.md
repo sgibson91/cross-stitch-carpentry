@@ -20,7 +20,8 @@ To use the design and materials provided for this lesson, follow these steps:
 ## Fabric and needle
 
 - We’re using 14 count aida fabric. This means that 14 stitches will fit in 1 inch of fabric. This type of fabric has well defined holes woven into it making it ideal for cross stitch!
-    - The recommended way to do this is to fold the fabric in half and then half again. Another way is to put the needle into the fold to keep track of the centre.
+    - One way to do this is to fold the fabric in half and then half again.
+      You can then keep track of the centre by pushing the needle through the fold..
     - Here is video for reference: https://youtu.be/nVawkpj1T3g 
    
 ## Embroidery hoop
