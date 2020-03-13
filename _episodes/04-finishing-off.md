@@ -8,9 +8,9 @@ objectives:
 - "Learn how to finish off your thread underneath your cross stitch"
 - "Secure the end of your thread so the stitches don't come undone."
 keypoints:
-- Choose a way to tie your threads when you finish off
-- Make sure that you have secured the end of your thread
-- Cut off any extra length to keep it neat
+- "Choose a way to tie your threads when you finish off"
+- "Make sure that you have secured the end of your thread"
+- "Cut off any extra length to keep it neat"
 ---
 
 - [Finishing off your thread](#finishing-off-your-thread)

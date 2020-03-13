@@ -11,7 +11,9 @@ objectives:
 - "How to make a cross stitch"
 - "Stitching best practices"
 keypoints:
-- ""
+- "The loop start method"
+- "Making a cross stitch"
+- "Stitching best practices"
 ---
 
 - [How to Cross Stitch](#how-to-cross-stitch)
