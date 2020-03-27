@@ -2,7 +2,7 @@
 title: Motivation
 ---
 
-# Cross Stitching is like computer programming
+# Cross Stitching is like Computer Programming
 
 Computer programming or coding requires analytical skills, which allows us to think of a solution to a problem, design a plan comprising of multiple steps and accomplish them by writing multiple lines of code. 
 Each of these lines have been intentionally written to play a vital role in a working software.
