@@ -2,7 +2,7 @@
 title: Motivation
 ---
 
-# Cross Stitching is like Computer Programming
+## Cross Stitching is like Computer Programming
 
 Computer programming or coding requires analytical skills.
 These skills allow us to think of a solution to a problem, design a plan comprising of multiple steps and accomplish them by writing multiple lines of code. 
@@ -16,13 +16,13 @@ If there’s a bug or mis-stitching in a row, you have to fix that to create you
 Keeping that in mind, we invite you to explore cross-stitching as a hobby for programmers. 
 This lesson is designed to train a beginner to learn how to cross stitch and use it as a hobby to mindfully enjoy their breaks from work.
 
-# Why cross stitch as a programmer?
+## Why cross stitch as a programmer?
 
 On a daily basis, we use smartphones and computers for everything we do. 
 Starting from getting instant access to news and the latest information in the morning, to learning a new programming language or other skills for getting our job done at work, to online shopping that makes our day-to-day life possible.
 Needless to say, such excessive use of technology leads to information overload and often results in burnout and other mental health issues, such as anxiety and depression [1].
 
-## Sarah's Impact Story
+### Sarah's Impact Story
 
 I was taught to cross stitch in my early teens by my aunt.
 It was also the same time she got me into heavy metal music and took to me to my first rock music gigs.
@@ -37,7 +37,7 @@ Another reason I have continued to cross stitch is that it forces me to slow dow
 If I rush stitching, I'm bound to make a mistake.
 So instead I take my time to make sure I have the right coloured thread and I've counted the correct number of spaces. _Count twice, stitch once!_
 
-# Mindful Hobbies in Digital Age
+## Mindful Hobbies in Digital Age
 
 > *Mindfulness and technology is a movement in research and design, that encourages the user to become aware of the present moment, rather than losing oneself in a technological device. This field encompasses multidisciplinary participation between design, psychology, computer science, and religion.* Source: [Wikipedia](https://en.wikipedia.org/wiki/Mindfulness_and_technology)
 
@@ -45,11 +45,7 @@ Mindfulness has been theoretically and empirically associated with psychological
 Practicing mindfulness through a habby is an easy way to intentionally separate our 'down-time' from 'work-time' and boost our wellbeing. 
 The [National Institute for Health and Care Excellence](https://www.nice.org.uk/) recommends mindfulness as a way to boost attention and concentration and to prevent recurrent depression [3].
 
-# Lessons in a nutshell
-
-<>
-
-# If you need more reasons
+## If you need more reasons
 
 *Taken from the Huffpost "Why Knitting Is the Must-Have Life Skill"[4]*
 
