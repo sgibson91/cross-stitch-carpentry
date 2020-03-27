@@ -22,7 +22,20 @@ On a daily basis, we use smartphones and computers for everything we do.
 Starting from getting instant access to news and the latest information in the morning, to learning a new programming language or other skills for getting our job done at work, to online shopping that makes our day-to-day life possible.
 Needless to say, such excessive use of technology leads to information overload and often results in burnout and other mental health issues, such as anxiety and depression [1].
 
-<SARAH HELP ME>
+## Sarah's Impact Story
+
+I was taught to cross stitch in my early teens by my aunt.
+It was also the same time she got me into heavy metal music and took to me to my first rock music gigs.
+She is still by far the coolest member of my family!
+
+I stuck with cross stitching as a hobby for a number of reasons, but most of all I do it because it keeps my hands busy.
+In an evening, I would often find myself mindlessly scrolling through social media when I was supposed to be paying attention to a film or a conversation with my friend.
+Cross stitching keeps me off my phone when I don't need to be, but still leaves me with enough "brain space" to carry on a conversation or watch something.
+(My new favourite thing to stitch along to is audiobooks!)
+
+Another reason I have continued to cross stitch is that it forces me to slow down.
+If I rush stitching, I'm bound to make a mistake.
+So instead I take my time to make sure I have the right coloured thread and I've counted the correct number of spaces. _Count twice, stitch once!_
 
 # Mindful Hobbies in Digital Age
 
