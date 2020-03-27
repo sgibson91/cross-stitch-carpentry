@@ -10,5 +10,5 @@ We will explore cross-stitching as a hobby for programmers and data scientists t
 
 > ## Motivation
 >
-> To get more background before you get started, please see the [motivation](_extras/motivation.md)
+> To get more background before you begin, please see the [motivation](_extras/motivation.md)
 {: .prereq}
