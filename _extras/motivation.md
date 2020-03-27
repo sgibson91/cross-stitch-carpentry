@@ -49,7 +49,7 @@ The [National Institute for Health and Care Excellence](https://www.nice.org.uk/
 
 *Taken from the Huffpost "Why Knitting Is the Must-Have Life Skill"[4]*
 
-- Take it With You: You can cross-stitch anywhere — traveling, waiting for your codes to compile
+- Take it With You: You can cross-stitch anywhere — traveling, waiting for your codes to compile...
 
 ![](https://imgs.xkcd.com/comics/compiling.png)
 
@@ -61,7 +61,7 @@ The [National Institute for Health and Care Excellence](https://www.nice.org.uk/
 
 - Slow Down, we Move Too Fast: In this fast-moving world in which we live, taking the time to do something that requires slowing down to focus on what you’re doing has substantial mental benefits.
 
-- Cross stitching as an Art: Display Cross stitch art in your home.
+- Cross stitching as Art: Display Cross stitch art in your home or give it to your friends as a personalised gift.
 
 - Cross stitching and technology: If you are interested in hardware and software design, you can find ways to combine them with your new found hobby of cross stitch.
 
