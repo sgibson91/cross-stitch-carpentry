@@ -12,10 +12,13 @@ keypoints:
 
 - [Pattern chart](#pattern-chart)
 - [Fabric](#fabric)
+  - [How much fabric do I need?](#how-much-fabric-do-i-need)
+- [Embroidery hoop](#embroidery-hoop)
+  - [What size hoop do I need?](#what-size-hoop-do-i-need)
 - [Coloured thread](#coloured-thread)
+  - [How much thread do I need?](#how-much-thread-do-i-need)
 - [Needle](#needle)
 - [Scissors](#scissors)
-- [Embroidery hoop](#embroidery-hoop)
 - [A needle threader](#needle-threader) (optional)
 - [A needle minder](#needle-minder) (optional)
 
@@ -39,13 +42,51 @@ Most commonly, cross stitching is done on 14 count aida.
 This means that 14 stitches will fit in 1 inch of fabric.
 The higher the count, the more stitches per inch you will get.
 
+### How much fabric do I need?
+
+Your [pattern chart](#pattern-chart) should contain information of the dimensions of the completed pattern on different counts of aida.
+It may say something like:
+
+> 5"x6" 14 count
+
+This means that the finished stitched area will take up 5"x6" providing you use 14 count fabric.
+When selecting the size of the fabric to work with, it's recommended to add an extra few inches to the outside to account for the placement of the hoop and any extra you made need for framing your finished piece.
+
+If you want to use a different count fabric to the recommendation, or need some help calculating fabric size, there are lot of handy tools online to help you work this out.
+
+- <https://www.crosstitch.com/calc.html>
+
+## Embroidery hoop
+
+Embroidery hoops, also known as frames, are a pair of concentric circular rings (often available in wooden or plastic materials) that are used for keeping fabric tightly secured and cleanly placed when stitching and performing needlework.
+
+### What size hoop do I need?
+
+As we discussed in ["How much fabric do I need?"](#how-much-fabric-do-i-need), the size of your finished pattern will depend on the stitched area and the fabric count you use.
+Where possible, you should choose a hoop large enough to encompass the whole pattern as this will mean you will have to move the hoop less as you work on your design.
+This is especially important if you plan to display your finished piece in the hoop.
+However for very large patterns, it's fine to use a smaller hoop.
+
 ## Coloured thread
 
 We also need some coloured thread to make our stitches with!
+
 In the key of the pattern chart, there'll be a list of numbers that correspond to the coloured thread you'll need to complete the pattern.
 There are many different brands of thread you could use and which brand the chart maker had in mind should be listed on the pattern chart too.
 This is because the colour numbers don't match up between brands!
+
 A brand called [DMC](https://www.dmc.com/) is most commonly used for cross stitching, but you may also see [Anchor](https://anchorcrafts.com/) being referred to.
+
+### How much thread do I need?
+
+Embroidery thread is often sold in [_skeins_](https://www.merriam-webster.com/dictionary/skein).
+How many you'll need of each colour will depend on how large your pattern is and how often the colour is used.
+
+As well as which colours to use, your pattern chart may also include information on how many stitches there are in each colour (stitch count) and how many threads to use for each colour (thread count).
+You can enter this information into an online tool to calculate how much of a skein the stitching will use.
+Note that this will be an estimate as it won't take into account how much thread you will need to start/stop a colour.
+
+- <https://www.thread-bare.com/tools/cross-stitch-skein-estimator>
 
 ## Needle
 
@@ -58,10 +99,6 @@ These can also be purchased from DMC.
 
 It will be handy to have a pair of scissors around to cut loose ends of thread with.
 You could purchase a set of [embroidery scissors](https://www.sewessential.co.uk/sewing-tools-and-gadgets/sewing-tools/scissors/embroidery-scissors) or a small pair of craft scissors will suffice.
-
-## Embroidery hoop
-
-Embroidery hoops, also known as frames, are a pair of concentric circular rings (often available in wooden or plastic materials) that are used for keeping fabric tightly secured and cleanly placed when stitching and performing needlework.
 
 ## Needle threader
 
