@@ -5,7 +5,7 @@ title: Motivation
 ## Cross Stitching is like Computer Programming
 
 Computer programming or coding requires analytical skills.
-These skills allow us to think of a solution to a problem, design a plan comprising of multiple steps and accomplish them by writing multiple lines of code. 
+These skills allow us to think of a solution to a problem, design a plan comprising of multiple steps and accomplish them by writing multiple lines of code.
 Each of these lines have been intentionally written to play a vital role in a software package or analytical pipeline.
 
 Cross stitching is quite like programming where the input is the combination of colours, the algorithm is the pattern chart, and the output is a beautiful design you have created.
@@ -13,16 +13,16 @@ Cross stitching is quite like programming where the input is the combination of 
 As you stitch, you have to decode the pattern symbols into thread colours and the pattern is often built up across rows.
 If there’s a bug or mis-stitching in a row, you have to fix that to create your pattern as you intended it to look like.
 
-Keeping that in mind, we invite you to explore cross-stitching as a hobby for programmers. 
+Keeping that in mind, we invite you to explore cross-stitching as a hobby for programmers.
 This lesson is designed to train a beginner to learn how to cross stitch and use it as a hobby to mindfully enjoy their breaks from work.
 
 ## Why cross stitch?
 
-On a daily basis, we use smartphones and computers for everything we do. 
+On a daily basis, we use smartphones and computers for everything we do.
 Starting from getting instant access to news and the latest information in the morning, to learning a new programming language or other skills for getting our job done at work, to online shopping that makes our day-to-day life possible.
 Needless to say, such excessive use of technology leads to information overload and often results in burnout and other mental health issues, such as anxiety and depression [1].
 
-Spending time on an activity beside work can create opportunities for you to be more creative while doing something you enjoy, which can also significantly improve your mental health and wellbeing. We introduce cross stitching as such an activity. 
+Spending time on an activity beside work can create opportunities for you to be more creative while doing something you enjoy, which can also significantly improve your mental health and wellbeing. We introduce cross stitching as such an activity.
 
 Cross stitching can help you relax by bringing mindfulness into your daily life, while still engaging your analytical mind and rewarding it by creating something amazing with your time and skills. Sarah Gibson, a Research Engineer, an expert cross stitcher, and the primary author of this lesson, shares her personal motivations with you below.
 
@@ -45,8 +45,8 @@ So instead I take my time to make sure I have the right coloured thread and I've
 
 > *Mindfulness and technology is a movement in research and design, that encourages the user to become aware of the present moment, rather than losing oneself in a technological device. This field encompasses multidisciplinary participation between design, psychology, computer science, and religion.* Source: [Wikipedia](https://en.wikipedia.org/wiki/Mindfulness_and_technology)
 
-Mindfulness has been theoretically and empirically associated with psychological well-being [2]. 
-Practicing mindfulness through a habby is an easy way to intentionally separate our 'down-time' from 'work-time' and boost our wellbeing. 
+Mindfulness has been theoretically and empirically associated with psychological well-being [2].
+Practicing mindfulness through a habby is an easy way to intentionally separate our 'down-time' from 'work-time' and boost our wellbeing.
 The [National Institute for Health and Care Excellence](https://www.nice.org.uk/) recommends mindfulness as a way to boost attention and concentration and to prevent recurrent depression [3].
 
 ## If you need more reasons
@@ -55,18 +55,21 @@ The [National Institute for Health and Care Excellence](https://www.nice.org.uk/
 
 - Take it With You: You can cross-stitch anywhere — traveling, waiting for your codes to compile...
 
-![](https://imgs.xkcd.com/comics/compiling.png)
-*Image from the [xkcd comics](https://imgs.xkcd.com/comics/compiling.png)*
+![xkcd - My code is compiling!](https://imgs.xkcd.com/comics/compiling.png)
+*Image from [xkcd comics](https://imgs.xkcd.com/comics/compiling.png)*
 
 - Multi-Task to Your Heart’s Content - watching YouTube or netflix shows, listening in a community call ([check this video](https://youtu.be/81mG4L7S3Oc?t=1546) where Kistie Whitaker is cross stitching during a community call while listening in)!
 
-- Boost Your Memory: Studies show that side to side eye movements can significantly help boost memory [5]. 
+- Boost Your Memory: Studies show that side to side eye movements can significantly help boost memory [5].
 
 - Reduce Risk of Dementia: Regular participation in social or leisure activities such as traveling, odd jobs, knitting, or gardening were associated with a lower risk of subsequent dementia [6].
 
 - Slow Down, we Move Too Fast: In this fast-moving world in which we live, taking the time to do something that requires slowing down to focus on what you’re doing has substantial mental benefits.
 
 - Cross stitching as Art: Display Cross stitch art in your home or give it to your friends as a personalised gift.
+
+![Cross Stitch as Art](../fig/CrossStitchasArt.png)
+_A compilation of some of Sarah's cros stitch displayed in her flat._ :camera: _Sarah Gibson_
 
 - Cross stitching and technology: If you are interested in hardware and software design, you can find ways to combine them with your new found hobby of cross stitching.
 
