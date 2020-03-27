@@ -19,7 +19,6 @@ Furthermore, [_The Turing Way_](https://github.com/alan-turing-institute/the-tur
 
 👍🎉 First of all, thanks for taking the time to contribute! 🎉👍
 
-You can make this project better by contributing to it. 
-You can report mistakes and errors, create more content, etc. Whatever is your background, there is a way to contribute: via this GitHub repository, via command-line or even without dealing with GitHub.
+You can make this project better by contributing to it - please find more details in the [contributing guideline](https://github.com/sgibson91/cross-stitch-carpentry/blob/gh-pages/CONTRIBUTING.md).
 
 For any questions, get in touch with Sarah by emailing [sgibson@turing.ac.uk](mailto:sgibson@turing.ac.uk)
