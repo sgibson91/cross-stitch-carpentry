@@ -32,7 +32,9 @@ Now on the back of your fabric, pass the needle through the looped end of your t
 This should make an anchor preventing your thread from pulling through the fabric.
 This method is known as a "loop start".
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HLxIYeZJHeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 From the underside of the fabric, pass the needle through the hole one space above where you last came through the fabric.
 Back on the front you fabric, pull the needle through the hole one space down and to the left of where you just came up.
