@@ -43,7 +43,7 @@ So instead I take my time to make sure I have the right coloured thread and I've
 
 Mindfulness has been theoretically and empirically associated with psychological well-being [2]. 
 Practicing mindfulness through a habby is an easy way to intentionally separate our 'down-time' from 'work-time' and boost our wellbeing. 
-It is also recommended by National Institute for Health and Care Excellence to boost attention and concentration, and to prevent recurrent depression [3].
+The [National Institute for Health and Care Excellence](INSERT LINK) recommends mindfulness as a way to boost attention and concentration and to prevent recurrent depression [3].
 
 # Lessons in a nutshell
 
