@@ -69,7 +69,7 @@ The [National Institute for Health and Care Excellence](https://www.nice.org.uk/
 - Cross stitching as Art: Display Cross stitch art in your home or give it to your friends as a personalised gift.
 
 ![Cross Stitch as Art](../fig/CrossStitchasArt.png)
-_A compilation of some of Sarah's cros stitch displayed in her flat._ :camera: _Sarah Gibson_
+_A compilation of some of Sarah's cross stitch displayed in her flat._
 
 - Cross stitching and technology: If you are interested in hardware and software design, you can find ways to combine them with your new found hobby of cross stitching.
 
