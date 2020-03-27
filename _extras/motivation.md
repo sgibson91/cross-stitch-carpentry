@@ -14,7 +14,7 @@ As you stitch, you have to decode the pattern symbols into thread colours and th
 If there’s a bug or mis-stitching in a row, you have to fix that to create your pattern as you intended it to look like.
 
 Keeping that in mind, we invite you to explore cross-stitching as a hobby for programmers. 
-This lesson is designed to train a novice learner to learn how to cross stitch and use it as a hobby to mindfully enjoy their breaks from work.
+This lesson is designed to train a beginner to learn how to cross stitch and use it as a hobby to mindfully enjoy their breaks from work.
 
 # Why cross stitch as a programmer?
 
