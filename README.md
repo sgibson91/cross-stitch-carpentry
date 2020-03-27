@@ -9,7 +9,7 @@ That starter's manual has been converted into this Carpentries style lesson.
 
 Sarah , who is a research software engineer, uses cross stitch as a way to gently exercise her analytical skills in a hobby environment.
 
-The co-author, Malvika Sharan, is a novice cross stitcher, who received her first kit as an adult from Sarah at The Turinhg Way Book Dash and went on to dig into more evidences on why cross stitch is useful and we can promote such hobbies among researchers with a fast paced digital life.
+The co-author, Malvika Sharan, is a novice cross stitcher, who received her first kit as an adult from Sarah at _The Turing Way_ Book Dash and went on to dig into more evidences on why cross stitch is useful and we can promote such hobbies among researchers with a fast paced digital life.
 
 They co-created this lesson to make cross stitching an accessible hobby for programmers and data scientists that can help them bring mindfulness into their everyday life and boost mental health.
 
