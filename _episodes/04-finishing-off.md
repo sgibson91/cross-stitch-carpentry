@@ -28,7 +28,8 @@ Do this a couple of times to create an anchor.
 This will prevent your stitches from coming undone.
 Cut the loose tail of the thread as close to the fabric as you can.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6fIaQBjHskI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Further reading
 
-- 10 ways to finish your embroidery hoop, by Auntieems crafts: http://www.auntieemscrafts.com/10-ways-to-finish-embroidery-hoops/
-- YouTube video: https://youtu.be/6fIaQBjHskI.
+- [10 ways to finish your embroidery hoop](http://www.auntieemscrafts.com/10-ways-to-finish-embroidery-hoops/), by Auntieems crafts
