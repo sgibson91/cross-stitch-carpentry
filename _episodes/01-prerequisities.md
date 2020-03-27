@@ -16,6 +16,7 @@ keypoints:
 - [Fabric](#fabric)
   - [How much fabric do I need?](#how-much-fabric-do-i-need)
 - [Coloured thread](#coloured-thread)
+  - [How much thread do I need?](#how-much-thread-do-i-need)
 - [Needle](#needle)
 - [Scissors](#scissors)
 - [Embroidery hoop](#embroidery-hoop)
@@ -59,10 +60,23 @@ If you want to use a different count fabric to the recommendation, or need some 
 ### Coloured thread
 
 We also need some coloured thread to make our stitches with!
+
 In the key of the pattern chart, there'll be a list of numbers that correspond to the coloured thread you'll need to complete the pattern.
 There are many different brands of thread you could use and which brand the chart maker had in mind should be listed on the pattern chart too.
 This is because the colour numbers don't match up between brands!
+
 A brand called [DMC](https://www.dmc.com/) is most commonly used for cross stitching, but you may also see [Anchor](https://anchorcrafts.com/) being referred to.
+
+#### How much thread do I need?
+
+Embroidery thread is often sold in [_skeins_](https://www.merriam-webster.com/dictionary/skein).
+How many you'll need of each colour will depend on how large your pattern is and how often the colour is used.
+
+As well as which colours to use, your pattern chart may also include information on how many stitches there are in each colour (stitch count) and how many threads to use for each colour (thread count).
+You can enter this information into an online tool to calculate how much of a skein the stitching will use.
+Note that this will be an estimate as it won't take into account how much thread you will need to start/stop a colour.
+
+- <https://www.thread-bare.com/tools/cross-stitch-skein-estimator>
 
 ### Needle
 
