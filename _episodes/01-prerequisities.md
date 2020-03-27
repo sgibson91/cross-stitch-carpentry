@@ -14,6 +14,7 @@ keypoints:
 
 - [Pattern chart](#pattern-chart)
 - [Fabric](#fabric)
+  - [How much fabric do I need?](#how-much-fabric-do-i-need)
 - [Coloured thread](#coloured-thread)
 - [Needle](#needle)
 - [Scissors](#scissors)
@@ -40,6 +41,20 @@ How far apart the holes in the aida are is described by the fabric's "count".
 Most commonly, cross stitching is done on 14 count aida.
 This means that 14 stitches will fit in 1 inch of fabric.
 The higher the count, the more stitches per inch you will get.
+
+#### How much fabric do I need?
+
+Your [pattern chart](#pattern-chart) should contain information of the dimensions of the completed pattern on different counts of aida.
+It may say something like:
+
+> 5"x6" 14 count
+
+This means that the finished stitched area will take up 5"x6" providing you use 14 count fabric.
+When selecting the size of the fabric to work with, it's recommended to add an extra few inches to the outside to account for the placement of the hoop and any extra you made need for framing your finished piece.
+
+If you want to use a different count fabric to the recommendation, or need some help calculating fabric size, there are lot of handy tools online to help you work this out.
+
+- <https://www.crosstitch.com/calc.html>
 
 ### Coloured thread
 
