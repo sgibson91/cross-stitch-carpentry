@@ -6,10 +6,10 @@ This lesson repository aims to make cross stitching an accessible hobby for prog
 
 This lesson has been, primarily written by Dr. Sarah Gibson, a research software engineer and an expert cross stitcher, who uses cross stitch as a way to gently exercise her analytical skills in a hobby environment.
 
-The co-author, Malvika Sharan, is a novice cross stitcher, who received her first kit as an adult from Sarah, went on to collect evidences on why cross stitch is useful and if we can promote such hobbies among researchers with a fast paced digital life (see this [motivation](https://sgibson91.github.io/cross-stitch-carpentry/motivation/index.html)).
+The co-author, Malvika Sharan, a novice cross stitcher, who received her first kit as an adult from Sarah, went on to collect evidences on why cross stitch is useful (see this [motivation](https://sgibson91.github.io/cross-stitch-carpentry/motivation/index.html)) and if we can promote such hobbies in our research community.
 
 To promote self care among [_The Turing Way_](https://github.com/alan-turing-institute/the-turing-way) contributors, they along with the _The Turing Way_ lead, Kirstie Whitaker, gave away starter packages to their book dash attendees as a thank you gift. 
-The package included a manual develped by Sarah, that is now written into this Carpentries style lesson.
+The package also included a manual develped by Sarah, that is now written into this Carpentries style lesson to improve accessibility of this simple yet useful hobby.
 
 [_The Turing Way_](https://github.com/alan-turing-institute/the-turing-way) team also use this lesson as an example to test The Carpentries [lesson template](https://github.com/carpentries/lesson-example) where they intend to host lessons relevant for _The Turing Way_ project in the future.
 
