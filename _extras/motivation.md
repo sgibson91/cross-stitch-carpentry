@@ -8,7 +8,9 @@ Computer programming or coding requires analytical skills.
 These skills allow us to think of a solution to a problem, design a plan comprising of multiple steps and accomplish them by writing multiple lines of code. 
 Each of these lines have been intentionally written to play a vital role in a software package or analytical pipeline.
 
-Cross stitching is quite like programming where you create a beautiful pattern by "writing" in rows. 
+Cross stitching is quite like programming where the input is the combination of colours, the algorithm is the pattern chart, and the output is a beautiful design you have created.
+
+As you stitch, you have to decode the pattern symbols into thread colours and the pattern is often built up across rows.
 If there’s a bug or mis-stitching in a row, you have to fix that to create your pattern as you intented to look like.
 
 Keeping that in mind, we invite you to explore cross-stitching as a hobby for programmers. 
