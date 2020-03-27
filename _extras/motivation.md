@@ -79,7 +79,7 @@ The [National Institute for Health and Care Excellence](https://www.nice.org.uk/
 
 [3] [Look after your mental health using mindfulness](https://www.mentalhealth.org.uk/sites/default/files/How%20to...mindfulness.pdf).
 
-[4] [Why Knitting Is the Must-Have Life Skill](https://www.barbarahannahgrufferman.com/knit-your-way-to-cool-calm-and-healthy/), Barbara Hannah Grufferman, [featured on Huffpost]((https://www.huffpost.com/entry/learn-to-knit-_b_7146404?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEkxPdsb_i9Sh2ZeDeJbCYN-etQuQ9yk4C7D0zEm391g0aJsrvCWy8BI-UC1aNRLB7HOnle6QxFTr6zygm6M4C13SQKtC7N4D4RDVtaDruszwK8Wm-LsmRxERGCdtXDDzM7RMywhsQ69e8OY-dKT1W0VCI5mIjfGbcJ9Ch7BF-cu&guccounter=2) on 05 February 2014
+[4] [Why Knitting Is the Must-Have Life Skill](https://www.barbarahannahgrufferman.com/knit-your-way-to-cool-calm-and-healthy/), Barbara Hannah Grufferman, [featured on Huffpost](https://www.huffpost.com/entry/learn-to-knit-_b_7146404?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEkxPdsb_i9Sh2ZeDeJbCYN-etQuQ9yk4C7D0zEm391g0aJsrvCWy8BI-UC1aNRLB7HOnle6QxFTr6zygm6M4C13SQKtC7N4D4RDVtaDruszwK8Wm-LsmRxERGCdtXDDzM7RMywhsQ69e8OY-dKT1W0VCI5mIjfGbcJ9Ch7BF-cu&guccounter=2) on 05 February 2014
 
 [5] [Re-evaluating whether bilateral eye movements influence memory retrieval](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227790), Roberts BRT, Fernandes MA, MacLeod CM (2020) Re-evaluating whether bilateral eye movements influence memory retrieval. PLOS ONE 15(1): e0227790. https://doi.org/10.1371/journal.pone.0227790
 
