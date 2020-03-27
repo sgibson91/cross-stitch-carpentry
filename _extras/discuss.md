@@ -1,5 +1,5 @@
 ---
-title: Discussion
+title: Resources
 ---
 
 ## Online Shopping

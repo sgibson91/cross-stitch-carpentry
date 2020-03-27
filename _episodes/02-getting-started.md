@@ -24,7 +24,9 @@ This will allow you make sure your design is placed as intended in the fabric.
 One way to do this is to fold the fabric in half and then half again.
 You can then keep track of the centre by pushing the needle through the fold..
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nVawkpj1T3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 ## Embroidery hoop
 
@@ -36,7 +38,9 @@ Gently pull at the loose fabric around the edge while tightening the screw.
 The fabric should be drum-tight.
 If the screw is stiff, a flat-head screwdriver will help.
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Q4ieJCFBMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 ## Thread
 
