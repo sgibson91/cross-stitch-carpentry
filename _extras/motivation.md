@@ -20,7 +20,7 @@ This lesson is designed to train a beginner to learn how to cross stitch and use
 
 On a daily basis, we use smartphones and computers for everything we do. 
 Starting from getting instant access to news and the latest information in the morning, to learning a new programming language or other skills for getting our job done at work, to online shopping that makes our day-to-day life possible.
-Needless to say, such excessive use of technology leads to information overload, and often results into burnout and other mental health issues including anxiety, and depression [1].
+Needless to say, such excessive use of technology leads to information overload and often results in burnout and other mental health issues, such as anxiety and depression [1].
 
 <SARAH HELP ME>
 
