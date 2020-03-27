@@ -16,11 +16,17 @@ If there’s a bug or mis-stitching in a row, you have to fix that to create you
 Keeping that in mind, we invite you to explore cross-stitching as a hobby for programmers. 
 This lesson is designed to train a beginner to learn how to cross stitch and use it as a hobby to mindfully enjoy their breaks from work.
 
-## Why cross stitch as a programmer?
+## Why cross stitch?
 
 On a daily basis, we use smartphones and computers for everything we do. 
 Starting from getting instant access to news and the latest information in the morning, to learning a new programming language or other skills for getting our job done at work, to online shopping that makes our day-to-day life possible.
 Needless to say, such excessive use of technology leads to information overload and often results in burnout and other mental health issues, such as anxiety and depression [1].
+
+Spending time on an activity beside work can create opportunities for you to be more creative while doing something you enjoy, which can also significantly improve your mental health and wellbeing. 
+
+Cross stitching is a hobby that can help you relax by bringing mindfulness into your daily life, while still engaging your analytical mind and rewarding it by creating something amazing with your time and skills.
+
+Sarah Gibson, a Research Engineer, an expert cross stitcher, and the primary author of this lesson, shares her personal motivations with you below.
 
 ### Sarah's Impact Story
 
