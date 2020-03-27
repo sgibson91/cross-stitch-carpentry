@@ -18,7 +18,7 @@ This lesson is designed to train a beginner to learn how to cross stitch and use
 
 # Why cross stitch as a programmer?
 
-On a daily basis, we use smartphone and computers for everything we do. 
+On a daily basis, we use smartphones and computers for everything we do. 
 Starting from getting a fast access to news and latest information in the morning, to learning a new programming language or other skills to getting our job done at work, to ordering things that makes our day-to-day life possible.
 Needless to say, such excessive use of technology leads to information overload, and often results into burnout and other mental health issues including anxiety, and depression [1].
 
