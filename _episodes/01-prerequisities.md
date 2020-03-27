@@ -20,6 +20,7 @@ keypoints:
 - [Needle](#needle)
 - [Scissors](#scissors)
 - [Embroidery hoop](#embroidery-hoop)
+  - [What size hoop do I need?](#what-size-hoop-do-i-need)
 - [A needle threader](#needle-threader) (optional)
 - [A needle minder](#needle-minder) (optional)
 
@@ -93,6 +94,13 @@ You could purchase a set of [embroidery scissors](https://www.sewessential.co.uk
 ### Embroidery hoop
 
 Embroidery hoops, also known as frames, are a pair of concentric circular rings (often available in wooden or plastic materials) that are used for keeping fabric tightly secured and cleanly placed when stitching and performing needlework.
+
+#### What size hoop do I need?
+
+As we discussed in ["How much fabric do I need?"](#how-much-fabric-do-i-need), the size of your finished pattern will depend on the stitched area and the fabric count you use.
+Where possible, you should choose a hoop large enough to encompass the whole pattern as this will mean you will have to move the hoop less as you work on your design.
+This is especially important if you plan to display your finished piece in the hoop.
+However for very large patterns, it's fine to use a smaller hoop.
 
 ### Needle threader
 
