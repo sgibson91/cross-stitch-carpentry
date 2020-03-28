@@ -22,7 +22,11 @@ It is always a good idea to start by looking for the the middle/center of your f
 This will allow you make sure your design is placed as intended in the fabric.
 
 One way to do this is to fold the fabric in half and then half again.
-You can then keep track of the centre by pushing the needle through the fold..
+You can then keep track of the centre by pushing the needle through the fold.
+
+| ![Figure 1](../fig/episodes/02-how-to-cross-stitch/fig1.png) |
+| :---: |
+| _Figure 1: How to find the centre of you fabric and mark it with your needle._ |
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nVawkpj1T3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -37,6 +41,10 @@ On a flat surface, push the rings back together, trying to keep the centre of th
 Gently pull at the loose fabric around the edge while tightening the screw.
 The fabric should be drum-tight.
 If the screw is stiff, a flat-head screwdriver will help.
+
+| ![Figure 2](../fig/episodes/02-how-to-cross-stitch/fig2.png) |
+| :---: |
+| _Figure 2: Fitting an embroidery hoop to the fabric._ |
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Q4ieJCFBMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -56,5 +64,9 @@ Pull 1 strand out of the 6 and fold this over so the two ends meet.
 Thread the two ends through the eye of the needle.
 Most cross stitch patterns on 14 count aida require stitches made with 2 threads for suitable coverage of the fabric.
 By folding the thread in half like this, we can do something called a loop start.
+
+| ![Figure 3](../fig/episodes/02-how-to-cross-stitch/fig3.png) |
+| :---: |
+| _Figure 3: How to thread the needle in preparation for a loop start._ |
 
 Congratulations, you're now ready to start stitching!
