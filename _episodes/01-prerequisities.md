@@ -42,6 +42,10 @@ Most commonly, cross stitching is done on 14 count aida.
 This means that 14 stitches will fit in 1 inch of fabric.
 The higher the count, the more stitches per inch you will get.
 
+| ![Coloured Aida Fabric](../fig/episodes/01-prerequisites/fabric.jpg) |
+| :---: |
+| _Aida can be brought pre-dyed in a range of colours or you could be adventurous and dye it yourself!_ |
+
 ### How much fabric do I need?
 
 Your [pattern chart](#pattern-chart) should contain information of the dimensions of the completed pattern on different counts of aida.
@@ -60,6 +64,10 @@ If you want to use a different count fabric to the recommendation, or need some 
 
 Embroidery hoops, also known as frames, are a pair of concentric circular rings (often available in wooden or plastic materials) that are used for keeping fabric tightly secured and cleanly placed when stitching and performing needlework.
 
+| ![Bamboo Embroidery Hoop](../fig/episodes/01-prerequisites/hoop.png) |
+| :---: |
+| _Embroidery hoops can be made out of wood, like the one pictured here, or plastic._ |
+
 ### What size hoop do I need?
 
 As we discussed in ["How much fabric do I need?"](#how-much-fabric-do-i-need), the size of your finished pattern will depend on the stitched area and the fabric count you use.
@@ -76,6 +84,10 @@ There are many different brands of thread you could use and which brand the char
 This is because the colour numbers don't match up between brands!
 
 A brand called [DMC](https://www.dmc.com/) is most commonly used for cross stitching, but you may also see [Anchor](https://anchorcrafts.com/) being referred to.
+
+| ![A bag of coloured thread on bobbins](../fig/episodes/01-prerequisites/thread.png) |
+| :---: |
+| _You can store thread in a variety of ways. These threads have been wound onto bobbins._ |
 
 ### How much thread do I need?
 
@@ -95,10 +107,18 @@ We recommend using a Size 24 cross stitching needle.
 This type of needle is quite blunt so you don't have to worry about injuring yourself while stitching.
 These can also be purchased from DMC.
 
+| ![Embroidery needle](../fig/episodes/01-prerequisites/needle.png) |
+| :---: |
+| _A size 24 DMC cross stitch needle._ |
+
 ## Scissors
 
 It will be handy to have a pair of scissors around to cut loose ends of thread with.
 You could purchase a set of [embroidery scissors](https://www.sewessential.co.uk/sewing-tools-and-gadgets/sewing-tools/scissors/embroidery-scissors) or a small pair of craft scissors will suffice.
+
+| ![Embroidery scissors](../fig/episodes/01-prerequisites/scissors.png) |
+| :---: |
+| _A pair of embroidery scissors in a protective case._ |
 
 ## Needle threader
 

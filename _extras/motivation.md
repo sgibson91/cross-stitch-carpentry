@@ -55,8 +55,9 @@ The [National Institute for Health and Care Excellence](https://www.nice.org.uk/
 
 - Take it With You: You can cross-stitch anywhere — traveling, waiting for your codes to compile...
 
-![xkcd - My code is compiling!](https://imgs.xkcd.com/comics/compiling.png)
-*Image from [xkcd comics](https://imgs.xkcd.com/comics/compiling.png)*
+| ![xkcd - My code is compiling!](https://imgs.xkcd.com/comics/compiling.png) |
+| :---: |
+| _Image from [xkcd comics](https://imgs.xkcd.com/comics/compiling.png)_ |
 
 - Multi-Task to Your Heart’s Content - watching YouTube or netflix shows, listening in a community call ([check this video](https://youtu.be/81mG4L7S3Oc?t=1546) where Kistie Whitaker is cross stitching during a community call while listening in)!
 
@@ -68,8 +69,9 @@ The [National Institute for Health and Care Excellence](https://www.nice.org.uk/
 
 - Cross stitching as Art: Display Cross stitch art in your home or give it to your friends as a personalised gift.
 
-![Cross Stitch as Art](../fig/CrossStitchasArt.png)
-_A compilation of some of Sarah's cross stitch displayed in her flat._
+| ![Cross Stitch as Art](../fig/motivation/CrossStitchasArt.png) |
+| :---: |
+| _A compilation of some of Sarah's cross stitch displayed in her flat._ |
 
 - Cross stitching and technology: If you are interested in hardware and software design, you can find ways to combine them with your new found hobby of cross stitching.
 
