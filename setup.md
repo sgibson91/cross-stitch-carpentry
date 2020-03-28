@@ -13,3 +13,9 @@ A beginner level pattern chart of the [Binder logo](https://mybinder.org) can be
 This pattern is a design by Dr. Sarah Gibson, and is available with this lesson under CC-BY-4.0 license.
 
 The Binder logo is used under the [BSD 3-Clause](https://github.com/jupyterhub/binderhub/blob/master/LICENSE) license.
+
+### Custom chart
+
+If you want to cross-stitch your own image, you can generate any chart using [ih](https://github.com/glasnt/ih)
+
+
