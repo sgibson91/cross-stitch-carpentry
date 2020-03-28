@@ -1,5 +1,5 @@
 ---
-title: "Finishing off"
+title: "Finishing Off"
 teaching: 15
 exercises: 1
 questions:
@@ -27,6 +27,10 @@ Do this a couple of times to create an anchor.
 
 This will prevent your stitches from coming undone.
 Cut the loose tail of the thread as close to the fabric as you can.
+
+| ![Figure 1](../fig/episodes/04-finishing-off/fig1.png) |
+| :---: |
+| _Figure 1: How to finish off a thread by securing it underneath some stitches._ |
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6fIaQBjHskI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
