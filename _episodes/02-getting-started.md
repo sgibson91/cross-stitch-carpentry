@@ -57,4 +57,4 @@ Thread the two ends through the eye of the needle.
 Most cross stitch patterns on 14 count aida require stitches made with 2 threads for suitable coverage of the fabric.
 By folding the thread in half like this, we can do something called a loop start.
 
-Congratulations, you're now ready to start stitching! :tada:
+Congratulations, you're now ready to start stitching!
