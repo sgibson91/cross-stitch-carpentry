@@ -22,7 +22,7 @@ On a daily basis, we use smartphones and computers for everything we do.
 Starting from getting instant access to news and the latest information in the morning, to learning a new programming language or other skills for getting our job done at work, to online shopping that makes our day-to-day life possible.
 Needless to say, such excessive use of technology leads to information overload and often results in burnout and other mental health issues, such as anxiety and depression [1].
 
-Spending time on an activity beside work can create opportunities for you to be more creative while doing something you enjoy, which can also significantly improve your mental health and wellbeing. We introduce cross stitching as such an activity.
+Spending time on an activity beside work can create opportunities for you to be more creative while doing something you enjoy, which can also significantly improve your mental health and well-being. We introduce cross stitching as such an activity.
 
 Cross stitching can help you relax by bringing mindfulness into your daily life, while still engaging your analytical mind and rewarding it by creating something amazing with your time and skills. Sarah Gibson, a Research Engineer, an expert cross stitcher, and the primary author of this lesson, shares her personal motivations with you below.
 
@@ -35,7 +35,7 @@ She is still by far the coolest member of my family!
 I stuck with cross stitching as a hobby for a number of reasons, but most of all I do it because it keeps my hands busy.
 In an evening, I would often find myself mindlessly scrolling through social media when I was supposed to be paying attention to a film or a conversation with my friend.
 Cross stitching keeps me off my phone when I don't need to be, but still leaves me with enough "brain space" to carry on a conversation or watch something.
-(My new favourite thing to stitch along to is audiobooks!)
+(My new favourite thing to stitch along to is audio books!)
 
 Another reason I have continued to cross stitch is that it forces me to slow down.
 If I rush stitching, I'm bound to make a mistake.
@@ -46,7 +46,7 @@ So instead I take my time to make sure I have the right coloured thread and I've
 > *Mindfulness and technology is a movement in research and design, that encourages the user to become aware of the present moment, rather than losing oneself in a technological device. This field encompasses multidisciplinary participation between design, psychology, computer science, and religion.* Source: [Wikipedia](https://en.wikipedia.org/wiki/Mindfulness_and_technology)
 
 Mindfulness has been theoretically and empirically associated with psychological well-being [2].
-Practicing mindfulness through a habby is an easy way to intentionally separate our 'down-time' from 'work-time' and boost our wellbeing.
+Practicing mindfulness through a hobby is an easy way to intentionally separate our 'down-time' from 'work-time' and boost our well-being.
 The [National Institute for Health and Care Excellence](https://www.nice.org.uk/) recommends mindfulness as a way to boost attention and concentration and to prevent recurrent depression [3].
 
 ## If you need more reasons
