@@ -32,6 +32,10 @@ Now on the back of your fabric, pass the needle through the looped end of your t
 This should make an anchor preventing your thread from pulling through the fabric.
 This method is known as a "loop start".
 
+| ![Figure 1](../fig/episodes/03-getting-started/fig1.png) |
+| :---: |
+| _Figure 1: How to anchor your first stitch with a loop start._ |
+
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HLxIYeZJHeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
@@ -52,6 +56,10 @@ Ultimately you can stitch however works best for you, just bear these tips in mi
 2) **Do a row of half stitches then come back along the line to finish off the cross.**
    It can save a lot of time and be a more efficient way to stitch if you work along a line with half stitches first (for example, `\`), then come back down the line to finish off the crosses (so, `///` followed by `\\\`).
    This again helps neaten your work up but also means there’s less thread to unpick if you make a mistake.
+
+| ![Figure 2](../fig/episodes/03-getting-started/fig2.png) |
+| :---: |
+| _Figure 2: A method of stitching that makes your stitches look uniform._ |
 
 ## Further Reading
 
